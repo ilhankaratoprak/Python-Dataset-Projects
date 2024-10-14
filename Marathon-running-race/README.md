@@ -4,8 +4,9 @@
  - **Year**: The year of the event 
 - **Race_day**: The date of the event 
 - **Race_name**: The name of the event
- - **Race_length**: The length of the race (e.g., 50km, 50mi) 
-- **Race_number_of_finishers**: The total number of finishers in the race - **Athlete_performance**: The performance time of the athlete (in hours, minutes, seconds) 
+- **Race_length**: The length of the race (e.g., 50km, 50mi) 
+- **Race_number_of_finishers**: The total number of finishers in the race 
+- **Athlete_performance**: The performance time of the athlete (in hours, minutes, seconds) 
 - **Athlete_country**: The country of the athlete 
 - **Athlete_year_of_birth**: The birth year of the athlete 
 - **Athlete_gender**: The gender of the athlete
@@ -43,7 +44,8 @@
 - **Conclusion**: Athletes tend to perform better in spring compared to other seasons, with summer being the slowest. 
 3. **Age Impact on Performance**:
  - The analysis of age groups and their average speeds in 50mi races reveals distinct trends, with specific age groups performing better or worse based on the number of races completed.
- ## Future Work - Investigate further into the impact of other factors such as weather conditions, race elevation, and training methodologies on athlete performance. 
+ ## Future Work 
+ - Investigate further into the impact of other factors such as weather conditions, race elevation, and training methodologies on athlete performance. 
 - Extend the analysis to include more diverse datasets from other regions or race types. 
 ## Requirements 
 - Python 3.x 
