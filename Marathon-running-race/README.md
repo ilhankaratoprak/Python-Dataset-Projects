@@ -44,11 +44,12 @@
 3. **Age Impact on Performance**:
  - The analysis of age groups and their average speeds in 50mi races reveals distinct trends, with specific age groups performing better or worse based on the number of races completed.
  ## Future Work - Investigate further into the impact of other factors such as weather conditions, race elevation, and training methodologies on athlete performance. 
-- Extend the analysis to include more diverse datasets from other regions or race types. ## Requirements 
+- Extend the analysis to include more diverse datasets from other regions or race types. 
+## Requirements 
 - Python 3.x 
-- Pandas – 
-Seaborn – 
-Matplotlib 
+- Pandas 
+– Seaborn 
+– Matplotlib 
 - NumPy 
 ## Installation You can install the required packages using pip: 
-```bash pip install pandas seaborn matplotlib numpy
+- pip install pandas seaborn matplotlib numpy
