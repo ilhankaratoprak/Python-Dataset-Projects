@@ -1,13 +1,6 @@
 # Superstone Sales Analysis 
 ## Overview This project provides an analysis of sales data, focusing on trends and insights derived from various dimensions, such as order dates, customer details, and product categories. The analysis helps identify key patterns in sales performance over different years and months, highlighting the top customers and categories by sales volume. 
-## Table of Contents 
-- [Introduction](#introduction) 
-- [Data Description](#data-description) 
-- [Installation](#installation) 
-- [Usage](#usage) - [Data Analysis](#data-analysis)
- - [Visualizations](#visualizations) 
-- [Conclusion](#conclusion) 
-- [License](#license) 
+
 ## Introduction 
 In this project’we analyze a dataset of sales transactions to uncover insights about sales performance. The analysis covers sales volume over time, top customers, and sales distribution by product category. 
 ## Data Description 
