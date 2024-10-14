@@ -4,12 +4,7 @@ This project utilizes Python and data analysis libraries to analyze and visualiz
 - [Introduction](#introduction) 
 - [Dataset](#dataset) 
 - [Installation](#installation) 
-- [Analyses](#analyses) 
-- [Product Types](#product-types)
- - [Nutritional Values](#nutritional-values)
- - [Correlation Analysis](#correlation-analysis) 
-- [Results](#results) 
-- [Authors](#authors) 
+
 ## Introduction In this project, we will examine the nutritional values of Starbucks menu items, including calories, fat, carbohydrates, fiber, and protein. User-friendly visualizations will be created to analyze the dataset. 
 ## Dataset 
 The project uses a dataset named `starbucks.csv`. This dataset includes the following columns: 
